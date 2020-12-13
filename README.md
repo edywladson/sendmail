@@ -1,6 +1,6 @@
 # SendMail
 
-[![Maintainer](http://img.shields.io/badge/maintainer-@robsonvleite-blue.svg?style=flat-square)](https://twitter.com/edywladson)
+[![Maintainer](http://img.shields.io/badge/maintainer-@edywladson-blue.svg?style=flat-square)](https://twitter.com/edywladson)
 [![Source Code](http://img.shields.io/badge/source-edywladson/sendmail-blue.svg?style=flat-square)](https://github.com/edywladson/sendmail)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/edywladson/sendmail.svg?style=flat-square)](https://packagist.org/packages/edywladson/sendmail)
 [![Latest Version](https://img.shields.io/github/release/edywladson/sendmail.svg?style=flat-square)](https://github.com/edywladson/sendmail/releases)

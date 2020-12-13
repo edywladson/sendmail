@@ -1,6 +1,6 @@
 {
   "name": "edywladson/sendmail",
-  "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
+  "description": "Library that makes it easy to send email (Biblioteca que facilita o envio de e-mail)",
   "keywords": [
     "E-mail",
     "Mail",
