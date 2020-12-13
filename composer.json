@@ -6,7 +6,9 @@
     "Mail",
     "Send",
     "Edy Wladson",
-    "Email"
+    "Email",
+    "PHPMailer",
+    "Mailer"
   ],
   "homepage": "https://github.com/edywladson",
   "license": "MIT",
