@@ -1,0 +1,29 @@
+{
+  "name": "edywladson/sendmail",
+  "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
+  "keywords": [
+    "E-mail",
+    "Mail",
+    "Send",
+    "Edy Wladson",
+    "Email"
+  ],
+  "homepage": "https://github.com/edywladson",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Edy Wladson",
+      "email": "edywladson@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "phpmailer/phpmailer": "^6.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "EdyWladson\\SendMail\\": "src"
+    }
+  }
+}
